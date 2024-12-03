@@ -1,0 +1,6 @@
+C:\Users\oscar\OneDrive - Escuela Politécnica Nacional\2024B\Aplicaciones Distribuidas\Prácticas\Practica 07\Programa\Protocolo\bin\Debug\Protocolo.dll
+C:\Users\oscar\OneDrive - Escuela Politécnica Nacional\2024B\Aplicaciones Distribuidas\Prácticas\Practica 07\Programa\Protocolo\bin\Debug\Protocolo.pdb
+C:\Users\oscar\OneDrive - Escuela Politécnica Nacional\2024B\Aplicaciones Distribuidas\Prácticas\Practica 07\Programa\Protocolo\obj\Debug\Protocolo.csproj.AssemblyReference.cache
+C:\Users\oscar\OneDrive - Escuela Politécnica Nacional\2024B\Aplicaciones Distribuidas\Prácticas\Practica 07\Programa\Protocolo\obj\Debug\Protocolo.csproj.CoreCompileInputs.cache
+C:\Users\oscar\OneDrive - Escuela Politécnica Nacional\2024B\Aplicaciones Distribuidas\Prácticas\Practica 07\Programa\Protocolo\obj\Debug\Protocolo.dll
+C:\Users\oscar\OneDrive - Escuela Politécnica Nacional\2024B\Aplicaciones Distribuidas\Prácticas\Practica 07\Programa\Protocolo\obj\Debug\Protocolo.pdb
