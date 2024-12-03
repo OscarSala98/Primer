@@ -1,0 +1,10 @@
+C:\Users\oscar\OneDrive - Escuela Politécnica Nacional\2024B\Aplicaciones Distribuidas\Prácticas\Practica 07\Programa\Servidor\bin\Debug\Servidor.exe.config
+C:\Users\oscar\OneDrive - Escuela Politécnica Nacional\2024B\Aplicaciones Distribuidas\Prácticas\Practica 07\Programa\Servidor\bin\Debug\Servidor.exe
+C:\Users\oscar\OneDrive - Escuela Politécnica Nacional\2024B\Aplicaciones Distribuidas\Prácticas\Practica 07\Programa\Servidor\bin\Debug\Servidor.pdb
+C:\Users\oscar\OneDrive - Escuela Politécnica Nacional\2024B\Aplicaciones Distribuidas\Prácticas\Practica 07\Programa\Servidor\bin\Debug\Protocolo.dll
+C:\Users\oscar\OneDrive - Escuela Politécnica Nacional\2024B\Aplicaciones Distribuidas\Prácticas\Practica 07\Programa\Servidor\bin\Debug\Protocolo.pdb
+C:\Users\oscar\OneDrive - Escuela Politécnica Nacional\2024B\Aplicaciones Distribuidas\Prácticas\Practica 07\Programa\Servidor\obj\Debug\Servidor.csproj.AssemblyReference.cache
+C:\Users\oscar\OneDrive - Escuela Politécnica Nacional\2024B\Aplicaciones Distribuidas\Prácticas\Practica 07\Programa\Servidor\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\oscar\OneDrive - Escuela Politécnica Nacional\2024B\Aplicaciones Distribuidas\Prácticas\Practica 07\Programa\Servidor\obj\Debug\Servidor.csproj.Up2Date
+C:\Users\oscar\OneDrive - Escuela Politécnica Nacional\2024B\Aplicaciones Distribuidas\Prácticas\Practica 07\Programa\Servidor\obj\Debug\Servidor.exe
+C:\Users\oscar\OneDrive - Escuela Politécnica Nacional\2024B\Aplicaciones Distribuidas\Prácticas\Practica 07\Programa\Servidor\obj\Debug\Servidor.pdb
